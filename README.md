@@ -4,7 +4,7 @@
 **Authors**: Muhammad Awais, Muzammal Naseer, Salman Khan, Rao Muhammad Anwer, Hisham Cholakkal, Mubarak Shah, Fahad Shahbaz Khan 
 
 <div align='center'>
-<img src="/Users/awais/Google Drive/Ph.D./code/text2md/output/overview.svg" width="50%" height="50%">
+<img src="overview.svg" width="50%" height="50%">
 </div>
 
 ## Textually Prompted Models
