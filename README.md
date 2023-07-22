@@ -1,11 +1,20 @@
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
+[![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com) 
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-# Awesome CV Foundational Models
+# <p align=center>`Awesome CV Foundational Models`</p>
 
-**Authors**: Muhammad Awais, Muzammal Naseer, Salman Khan, Rao Muhammad Anwer, Hisham Cholakkal, Mubarak Shah, Fahad Shahbaz Khan 
+A curated list of awesome papers in computer vision. This paper supplements our survey paper. We intend to continuously update it. 
+
+We strongly encourage authors of relevant works to make a pull request and add their paper's information. 
+
+**Authors**: [Muhammad Awais](awaisrauf.github.io), [Muzammal Naseer](https://muzammal-naseer.netlify.app), [Salman Khan](https://salman-h-khan.github.io), [Rao Muhammad Anwer](https://scholar.google.fi/citations?user=_KlvMVoAAAAJ&hl=en), [Hisham Cholakkal](https://scholar.google.com/citations?user=bZ3YBRcAAAAJ&hl=en), [Mubarak Shah](https://www.crcv.ucf.edu/person/mubarak-shah/), [Fahad Shahbaz Khan](https://sites.google.com/view/fahadkhans/home) 
 
 <div align='center'>
-<img src="overview.svg" width="80%" height="80%">
+<img src="overview.svg" width="60%" height="60%">
 </div>
+
+
 
 ## Textually Prompted Models
 
