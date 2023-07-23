@@ -14,7 +14,7 @@ We strongly encourage authors of relevant works to make a pull request and add t
 <img src="overview.svg" width="60%" height="60%">
 </div>
 
-
+____
 
 **Scaling Up Visual and Vision-Language Representation Learning With Noisy Text Supervision**  2021 <br> Jia, Chao,  Yang, Yinfei,  Xia, Ye,  Chen, Yi-Ting,  Parekh, Zarana,  Pham, Hieu,  Le, Quoc,  Sung, Yun-Hsuan,  Li, Zhen,  Duerig, Tom <br>  [[**Paper Link**]](http://arxiv.org/pdf/2102.05918v2)<details><summary>Read Abstract</summary>Pre-trained representations are becoming crucial for many NLP and perception
 tasks. While representation learning in NLP has transitioned to training on raw
