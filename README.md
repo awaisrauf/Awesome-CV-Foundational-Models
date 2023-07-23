@@ -4,7 +4,7 @@
 
 # <p align=center>`Awesome CV Foundational Models`</p>
 
-A curated list of awesome papers in computer vision. This paper supplements our survey paper. We intend to continuously update it. 
+A curated list of awesome foundational models in computer vision. This repo supplements our survey paper. We intend to continuously update it. 
 
 We strongly encourage authors of relevant works to make a pull request and add their paper's information. 
 
