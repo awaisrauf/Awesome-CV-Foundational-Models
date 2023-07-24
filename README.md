@@ -20,7 +20,8 @@ We strongly encourage authors of relevant works to make a pull request and add t
 ____
 
 # Overview
-- [Survey](#survey]
+
+- [Survey](#survey)
 - [Year 2021](#2021)
 - [Year 2022](#2022)
 - [Year 2023](#2023)
