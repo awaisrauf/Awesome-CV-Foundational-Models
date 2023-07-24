@@ -19,6 +19,12 @@ We strongly encourage authors of relevant works to make a pull request and add t
 
 ____
 
+# Overview
+- [Survey](#survey]
+- [Year 2021](#2021)
+- [Year 2022](#2022)
+- [Year 2023](#2023)
+
 # Survey
 
 [**Foundational Models Defining a New Era in Vision: A Survey and Outlook**]() 2023 <br>
@@ -62,12 +68,6 @@ Gan, Zhe and Li, Linjie and Li, Chunyuan and Wang, Lijuan and Liu, Zicheng and G
 [[PDF]](https://arxiv.org/pdf/2210.09263)
 
 ____
-
-# Papers
-
-- [Year 2021](#2021)
-- [Year 2022](#2022)
-- [Year 2023](#2023)
 
 ## 2021
 
