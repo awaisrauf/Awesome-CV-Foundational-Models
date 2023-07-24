@@ -70,6 +70,8 @@ Gan, Zhe and Li, Linjie and Li, Chunyuan and Wang, Lijuan and Liu, Zicheng and G
 
 ____
 
+# Papers
+
 ## 2021
 
 **Scaling Up Visual and Vision-Language Representation Learning With Noisy Text Supervision**  2021-02-11 <br> Jia, Chao,  Yang, Yinfei,  Xia, Ye,  Chen, Yi-Ting,  Parekh, Zarana,  Pham, Hieu,  Le, Quoc,  Sung, Yun-Hsuan,  Li, Zhen,  Duerig, Tom <br>  [[Paper Link]](http://arxiv.org/pdf/2102.05918v2) <br> <details><summary>Read Abstract</summary>Pre-trained representations are becoming crucial for many NLP and perception
@@ -309,7 +311,7 @@ good at vision tasks, language tasks, and cross- and multi-modal vision and
 language tasks. We introduce FLAVA as such a model and demonstrate impressive
 performance on a wide range of 35 tasks spanning these target modalities.</details> 
  
-**Image Segmentation Using Text and Image Prompts**  2021-12-18 <br> L{\"u}ddecke, Timo,  Ecker, Alexander <br>  [[Paper Link]](http://arxiv.org/pdf/2112.10003v2) <br> <details><summary>Read Abstract</summary>Image segmentation is usually addressed by training a model for a fixed set
+**Image Segmentation Using Text and Image Prompts**  2021-12-18 <br> L{\"u}ddecke, Timo,  Ecker, Alexander <br>  [[Paper Link]](http://arxiv.org/pdf/2112.10003v2) [[Website]](https://eckerlab.org/code/clipseg.) <br> <details><summary>Read Abstract</summary>Image segmentation is usually addressed by training a model for a fixed set
 of object classes. Incorporating additional classes or more complex queries
 later is expensive as it requires re-training the model on a dataset that
 encompasses these expressions. Here we propose a system that can generate image
@@ -500,7 +502,7 @@ Notably, when further scaling the model, BridgeTower achieves an accuracy of
 datasets. Code and checkpoints are available at
 https://github.com/microsoft/BridgeTower.</details> 
  
-**MineDojo: Building Open-Ended Embodied Agents with Internet-Scale Knowledge**  2022-06-17 <br> Linxi Fan,  Guanzhi Wang,  Yunfan Jiang,  Ajay Mandlekar,  Yuncong Yang,  Haoyi Zhu,  Andrew Tang,  De-An Huang,  Yuke Zhu,  Anima Anandkumar <br>  [[Paper Link]](http://arxiv.org/pdf/2206.08853v2) <br> <details><summary>Read Abstract</summary>Autonomous agents have made great strides in specialist domains like Atari
+**MineDojo: Building Open-Ended Embodied Agents with Internet-Scale Knowledge**  2022-06-17 <br> Linxi Fan,  Guanzhi Wang,  Yunfan Jiang,  Ajay Mandlekar,  Yuncong Yang,  Haoyi Zhu,  Andrew Tang,  De-An Huang,  Yuke Zhu,  Anima Anandkumar <br>  [[Paper Link]](http://arxiv.org/pdf/2206.08853v2) [[Website]](https://minedojo.org)) <br> <details><summary>Read Abstract</summary>Autonomous agents have made great strides in specialist domains like Atari
 games and Go. However, they typically learn tabula rasa in isolated
 environments with limited and manually conceived objectives, thus failing to
 generalize across a wide spectrum of tasks and capabilities. Inspired by how
@@ -519,7 +521,7 @@ reward. We open-source the simulation suite, knowledge bases, algorithm
 implementation, and pretrained models (https://minedojo.org) to promote
 research towards the goal of generally capable embodied agents.</details> 
  
-**LM-Nav: Robotic Navigation with Large Pre-Trained Models of Language, Vision, and Action**  2022-07-10 <br> Dhruv Shah,  Blazej Osinski,  Brian Ichter,  Sergey Levine <br>  [[Paper Link]](http://arxiv.org/pdf/2207.04429v2) <br> <details><summary>Read Abstract</summary>Goal-conditioned policies for robotic navigation can be trained on large,
+**LM-Nav: Robotic Navigation with Large Pre-Trained Models of Language, Vision, and Action**  2022-07-10 <br> Dhruv Shah,  Blazej Osinski,  Brian Ichter,  Sergey Levine <br>  [[Paper Link]](http://arxiv.org/pdf/2207.04429v2) [[Website]](https://sites.google.com/view/lmnav) <br> <details><summary>Read Abstract</summary>Goal-conditioned policies for robotic navigation can be trained on large,
 unannotated datasets, providing for good generalization to real-world settings.
 However, particularly in vision-based settings where specifying goals requires
 an image, this makes for an unnatural interface. Language provides a more
@@ -791,7 +793,7 @@ the visual roles of ChatGPT with the help of Visual Foundation Models. Our
 system is publicly available at
 \url{https://github.com/microsoft/visual-chatgpt}.</details> 
  
-**Task and Motion Planning with Large Language Models for Object Rearrangement**  2023-03-10 <br> Yan Ding,  Xiaohan Zhang,  Chris Paxton,  Shiqi Zhang <br>  [[Paper Link]](http://arxiv.org/pdf/2303.06247v3) <br> <details><summary>Read Abstract</summary>Multi-object rearrangement is a crucial skill for service robots, and
+**Task and Motion Planning with Large Language Models for Object Rearrangement**  2023-03-10 <br> Yan Ding,  Xiaohan Zhang,  Chris Paxton,  Shiqi Zhang <br>  [[Paper Link]](http://arxiv.org/pdf/2303.06247v3) [[Website]](https://sites.google.com/view/llm-grop) <br> <details><summary>Read Abstract</summary>Multi-object rearrangement is a crucial skill for service robots, and
 commonsense reasoning is frequently needed in this process. However, achieving
 commonsense arrangements requires knowledge about objects, which is hard to
 transfer to robots. Large language models (LLMs) are one potential source of
@@ -980,7 +982,7 @@ various long-horizon manipulation tasks specified by abstract language
 instructions. We also demonstrate successful generalization to the novel but
 similar natural language instructions.</details> 
  
-**Segment Anything**  2023-04-05 <br> Kirillov, Alexander,  Mintun, Eric,  Ravi, Nikhila,  Mao, Hanzi,  Rolland, Chloe,  Gustafson, Laura,  Xiao, Tete,  Whitehead, Spencer,  Berg, Alexander C,  Lo, Wan-Yen,  others <br>  [[Paper Link]](http://arxiv.org/pdf/2304.02643v1) <br> <details><summary>Read Abstract</summary>We introduce the Segment Anything (SA) project: a new task, model, and
+**Segment Anything**  2023-04-05 <br> Kirillov, Alexander,  Mintun, Eric,  Ravi, Nikhila,  Mao, Hanzi,  Rolland, Chloe,  Gustafson, Laura,  Xiao, Tete,  Whitehead, Spencer,  Berg, Alexander C,  Lo, Wan-Yen,  others <br>  [[Paper Link]](http://arxiv.org/pdf/2304.02643v1) [[Website]](https://segment-anything.com) <br> <details><summary>Read Abstract</summary>We introduce the Segment Anything (SA) project: a new task, model, and
 dataset for image segmentation. Using our efficient model in a data collection
 loop, we built the largest segmentation dataset to date (by far), with over 1
 billion masks on 11M licensed and privacy respecting images. The model is
@@ -1509,7 +1511,7 @@ images, demonstrate the efficacy of Cream as a state-of-the-art model in the
 field of visual document understanding. We provide our codebase and
 newly-generated datasets at https://github.com/naver-ai/cream</details> 
  
-**Voyager: An Open-Ended Embodied Agent with Large Language Models**  2023-05-25 <br> Wang, Guanzhi,  Xie, Yuqi,  Jiang, Yunfan,  Mandlekar, Ajay,  Xiao, Chaowei,  Zhu, Yuke,  Fan, Linxi,  Anandkumar, Anima <br>  [[Paper Link]](http://arxiv.org/pdf/2305.16291v1) <br> <details><summary>Read Abstract</summary>We introduce Voyager, the first LLM-powered embodied lifelong learning agent
+**Voyager: An Open-Ended Embodied Agent with Large Language Models**  2023-05-25 <br> Wang, Guanzhi,  Xie, Yuqi,  Jiang, Yunfan,  Mandlekar, Ajay,  Xiao, Chaowei,  Zhu, Yuke,  Fan, Linxi,  Anandkumar, Anima <br>  [[Paper Link]](http://arxiv.org/pdf/2305.16291v1) [[Website]](https://voyager.minedojo.org/.) <br> <details><summary>Read Abstract</summary>We introduce Voyager, the first LLM-powered embodied lifelong learning agent
 in Minecraft that continuously explores the world, acquires diverse skills, and
 makes novel discoveries without human intervention. Voyager consists of three
 key components: 1) an automatic curriculum that maximizes exploration, 2) an
@@ -1883,7 +1885,7 @@ entire dataset. Furthermore, MedLAM has the potential to be seamlessly
 integrated with future 3D SAM models, paving the way for enhanced performance.
 Our code is public at https://github.com/openmedlab/MedLSAM.</details> 
  
-**Kosmos-2: Grounding Multimodal Large Language Models to the World**  2023-06-26 <br> Zhiliang Peng,  Wenhui Wang,  Li Dong,  Yaru Hao,  Shaohan Huang,  Shuming Ma,  Furu Wei <br>  [[Paper Link]](http://arxiv.org/pdf/2306.14824v3) <br> <details><summary>Read Abstract</summary>We introduce Kosmos-2, a Multimodal Large Language Model (MLLM), enabling new
+**Kosmos-2: Grounding Multimodal Large Language Models to the World**  2023-06-26 <br> Zhiliang Peng,  Wenhui Wang,  Li Dong,  Yaru Hao,  Shaohan Huang,  Shuming Ma,  Furu Wei <br>  [[Paper Link]](http://arxiv.org/pdf/2306.14824v3) [[Website]](https://aka.ms/kosmos-2.) <br> <details><summary>Read Abstract</summary>We introduce Kosmos-2, a Multimodal Large Language Model (MLLM), enabling new
 capabilities of perceiving object descriptions (e.g., bounding boxes) and
 grounding text to the visual world. Specifically, we represent refer
 expressions as links in Markdown, i.e., ``[text span](bounding boxes)'', where
