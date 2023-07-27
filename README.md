@@ -6,6 +6,21 @@
 
 **Authors**: [Muhammad Awais](awaisrauf.github.io), [Muzammal Naseer](https://muzammal-naseer.netlify.app), [Salman Khan](https://salman-h-khan.github.io), [Rao Muhammad Anwer](https://scholar.google.fi/citations?user=_KlvMVoAAAAJ&hl=en), [Hisham Cholakkal](https://scholar.google.com/citations?user=bZ3YBRcAAAAJ&hl=en), [Mubarak Shah](https://www.crcv.ucf.edu/person/mubarak-shah/), [ Ming-Hsuan Yang](http://faculty.ucmerced.edu/mhyang/), [Fahad Shahbaz Khan](https://sites.google.com/view/fahadkhans/home)
 
+> **<p align="justify"> Abstract:** *Vision systems to see and reason about the compositional nature of visual scenes are fundamental to understanding our
+world. The complex relations between objects and their locations, ambiguities, and variations in the real-world environment can be
+better described in human language, naturally governed by grammatical rules and other modalities such as audio and depth. The
+models learned to bridge the gap between such modalities coupled with large-scale training data facilitate contextual reasoning,
+generalization, and prompt capabilities at test time. These models are referred to as foundational models. The output of such models
+can be modified through human-provided prompts without retraining, e.g., segmenting a particular object by providing a bounding box,
+having interactive dialogues by asking questions about an image or video scene or manipulating the robot’s behavior through language
+instructions. In this survey, we provide a comprehensive review of such emerging foundational models, including typical architecture
+designs to combine different modalities (vision, text, audio, etc), training objectives (contrastive, generative), pre-training datasets,
+fine-tuning mechanisms, and the common prompting patterns; textual, visual, and heterogeneous. We discuss the open challenges
+and research directions for foundational models in computer vision, including difficulties in their evaluations and benchmarking, gaps in
+their real-world understanding, limitations of their contextual understanding, biases, vulnerability to adversarial attacks, and
+interpretability issues. We review recent developments in this field, covering a wide range of applications of foundation models
+systematically and comprehensively.* </p>
+
 <div align='center'>
 <img src="overview.svg" width="60%" height="60%">
 </div>
