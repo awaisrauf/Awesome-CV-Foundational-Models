@@ -2,7 +2,7 @@
 [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-# <p align=center> This repo supplements our [Survey on Foundational Models in Vision ]()
+# <p align=center> This repo supplements our [Survey on Foundational Models in Vision ](https://arxiv.org/pdf/2307.13721.pdf)
 
 **Authors**: [Muhammad Awais](awaisrauf.github.io), [Muzammal Naseer](https://muzammal-naseer.netlify.app), [Salman Khan](https://salman-h-khan.github.io), [Rao Muhammad Anwer](https://scholar.google.fi/citations?user=_KlvMVoAAAAJ&hl=en), [Hisham Cholakkal](https://scholar.google.com/citations?user=bZ3YBRcAAAAJ&hl=en), [Mubarak Shah](https://www.crcv.ucf.edu/person/mubarak-shah/), [ Ming-Hsuan Yang](http://faculty.ucmerced.edu/mhyang/), [Fahad Shahbaz Khan](https://sites.google.com/view/fahadkhans/home)
 
@@ -28,7 +28,7 @@ ____
 
 # Survey
 
-[**Foundational Models Defining a New Era in Vision: A Survey and Outlook**]() 2023 <br>
+[**Foundational Models Defining a New Era in Vision: A Survey and Outlook**](https://arxiv.org/pdf/2307.13721.pdf) 2023 <br>
 [Muhammad Awais](awaisrauf.github.io), [Muzammal Naseer](https://muzammal-naseer.netlify.app), [Salman Khan](https://salman-h-khan.github.io), [Rao Muhammad Anwer](https://scholar.google.fi/citations?user=_KlvMVoAAAAJ&hl=en), [Hisham Cholakkal](https://scholar.google.com/citations?user=bZ3YBRcAAAAJ&hl=en), [Mubarak Shah](https://www.crcv.ucf.edu/person/mubarak-shah/),[ Ming-Hsuan Yang](http://faculty.ucmerced.edu/mhyang/), [Fahad Shahbaz Khan](https://sites.google.com/view/fahadkhans/home) <br>
 [[PDF]]()
 
