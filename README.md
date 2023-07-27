@@ -21,6 +21,7 @@ their real-world understanding, limitations of their contextual understanding, b
 interpretability issues. We review recent developments in this field, covering a wide range of applications of foundation models
 systematically and comprehensively.* </p>
 
+
 <div align='center'>
 <img src="overview.svg" width="60%" height="60%">
 </div>
