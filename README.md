@@ -30,7 +30,7 @@ ____
 
 [**Foundational Models Defining a New Era in Vision: A Survey and Outlook**](https://arxiv.org/pdf/2307.13721.pdf) 2023 <br>
 [Muhammad Awais](awaisrauf.github.io), [Muzammal Naseer](https://muzammal-naseer.netlify.app), [Salman Khan](https://salman-h-khan.github.io), [Rao Muhammad Anwer](https://scholar.google.fi/citations?user=_KlvMVoAAAAJ&hl=en), [Hisham Cholakkal](https://scholar.google.com/citations?user=bZ3YBRcAAAAJ&hl=en), [Mubarak Shah](https://www.crcv.ucf.edu/person/mubarak-shah/),[ Ming-Hsuan Yang](http://faculty.ucmerced.edu/mhyang/), [Fahad Shahbaz Khan](https://sites.google.com/view/fahadkhans/home) <br>
-[[PDF]]()
+[[PDF]](https://arxiv.org/pdf/2307.13721.pdf)
 
 [**A Survey of Large Language Models**](https://arxiv.org/abs/2303.18223) 2023 <br>
 Wayne Xin Zhao and Kun Zhou and  Junyi Li and  Tianyi Tang and  Xiaolei Wang and  Yupeng Hou and Yingqian Min and Beichen Zhang and  Junjie Zhang and  Zican Dong and  Yifan Du and  Chen Yang and  Yushuo Chen and  Zhipeng Chen and  Jinhao Jiang and  Ruiyang Ren and  Yifan Li and  Xinyu Tang and  Zikang Liu and  Peiyu Liu and  Jian-Yun Nie and  Ji-Rong Wen <br>
