@@ -1744,7 +1744,7 @@ outperform previous SoTA by 9.14% mean recall on RSICD dataset and by 8.92% on
 RSICD dataset. For zero-shot classification, our RemoteCLIP outperform CLIP
 baseline by up to 6.39% average accuracy on 12 downstream datasets.</details> 
  
-**LVM-Med: Learning Large-Scale Self-Supervised Vision Models for Medical Imaging via Second-order Graph Matching**  2023-06-20 <br> Duy M. H. Nguyen,  Hoang Nguyen,  Nghiem T. Diep,  Tan N. Pham,  Tri Cao,  Binh T. Nguyen,  Paul Swoboda,  Nhat Ho,  Shadi Albarqouni,  Pengtao Xie,  Daniel Sonntag,  Mathias Niepert <br>  [[Paper Link]](http://arxiv.org/pdf/2306.11925v2) <br> <details><summary>Read Abstract</summary>Obtaining large pre-trained models that can be fine-tuned to new tasks with
+**LVM-Med: Learning Large-Scale Self-Supervised Vision Models for Medical Imaging via Second-order Graph Matching**  2023-06-20 <br> Duy M. H. Nguyen,  Hoang Nguyen,  Nghiem T. Diep,  Tan N. Pham,  Tri Cao,  Binh T. Nguyen,  Paul Swoboda,  Nhat Ho,  Shadi Albarqouni,  Pengtao Xie,  Daniel Sonntag,  Mathias Niepert <br>  [[Paper Link]](http://arxiv.org/pdf/2306.11925v2) [[Code]](https://github.com/duyhominhnguyen/LVM-Med) <br> <details><summary>Read Abstract</summary>Obtaining large pre-trained models that can be fine-tuned to new tasks with
 limited annotated samples has remained an open challenge for medical imaging
 data. While pre-trained deep networks on ImageNet and vision-language
 foundation models trained on web-scale data are prevailing approaches, their
