@@ -4,7 +4,8 @@
 
 # Foundational Models Defining a New Era in Vision: A Survey and Outlook
 
-**Authors**: [Muhammad Awais](awaisrauf.github.io), [Muzammal Naseer](https://muzammal-naseer.netlify.app), [Salman Khan](https://salman-h-khan.github.io), [Rao Muhammad Anwer](https://scholar.google.fi/citations?user=_KlvMVoAAAAJ&hl=en), [Hisham Cholakkal](https://scholar.google.com/citations?user=bZ3YBRcAAAAJ&hl=en), [Mubarak Shah](https://www.crcv.ucf.edu/person/mubarak-shah/), [ Ming-Hsuan Yang](http://faculty.ucmerced.edu/mhyang/), [Fahad Shahbaz Khan](https://sites.google.com/view/fahadkhans/home)
+> [**Foundational Models Defining a New Era in Vision: A Survey and Outlook**](https://arxiv.org/abs/2307.13721)<br>
+> [Muhammad Awais](awaisrauf.github.io), [Muzammal Naseer](https://muzammal-naseer.netlify.app), [Salman Khan](https://salman-h-khan.github.io), [Rao Muhammad Anwer](https://scholar.google.fi/citations?user=_KlvMVoAAAAJ&hl=en), [Hisham Cholakkal](https://scholar.google.com/citations?user=bZ3YBRcAAAAJ&hl=en), [Mubarak Shah](https://www.crcv.ucf.edu/person/mubarak-shah/), [ Ming-Hsuan Yang](http://faculty.ucmerced.edu/mhyang/), [Fahad Shahbaz Khan](https://sites.google.com/view/fahadkhans/home)
 
 > **<p align="justify"> Abstract:** *Vision systems to see and reason about the compositional nature of visual scenes are fundamental to understanding our
 world. The complex relations between objects and their locations, ambiguities, and variations in the real-world environment can be
