@@ -36,6 +36,15 @@ We strongly encourage authors of relevant works to make a pull request and add t
 
 ____
 
+If you find our work useful in your research, please consider citing:
+```
+@article{awais2023foundational,
+  title={Foundational Models Defining a New Era in Vision: A Survey and Outlook},
+  author={Awais, Muhammad and Naseer, Muzammal and Khan, Salman and Anwer, Rao Muhammad and Cholakkal, Hisham and Shah, Mubarak and Yang, Ming-Hsuan and Khan, Fahad Shahbaz},
+  journal={arXiv preprint arXiv:2307.13721},
+  year={2023}
+}
+```
 # Menu
 
 - [Surveys](#surveys)
