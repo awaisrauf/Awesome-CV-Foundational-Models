@@ -36,6 +36,8 @@ We strongly encourage authors of relevant works to make a pull request and add t
 
 ____
 
+## Citation
+
 If you find our work useful in your research, please consider citing:
 ```
 @article{awais2023foundational,
