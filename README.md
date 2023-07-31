@@ -96,12 +96,12 @@ Chunhui Zhang and Li Liu and Yawen Cui and Guanjie Huang and Weilin Lin and Yiqi
 Gan, Zhe and Li, Linjie and Li, Chunyuan and Wang, Lijuan and Liu, Zicheng and Gao, Jianfeng and others <br>
 [[PDF]](https://arxiv.org/pdf/2210.09263)
 
-[**Towards Open Vocabulary Learning: A Survey**](https://arxiv.org/abs/2306.15880)
-Jianzong Wu, Xiangtai Li, Shilin Xu, Haobo Yuan, Henghui Ding, Yibo Yang, Xia Li, Jiangning Zhang, Yunhai Tong, Xudong Jiang, Bernard Ghanem, Dacheng Tao
+[**Towards Open Vocabulary Learning: A Survey**](https://arxiv.org/abs/2306.15880) 2023 <br>
+Jianzong Wu, Xiangtai Li, Shilin Xu, Haobo Yuan, Henghui Ding, Yibo Yang, Xia Li, Jiangning Zhang, Yunhai Tong, Xudong Jiang, Bernard Ghanem, Dacheng Tao <br>
 [[PDF]](https://arxiv.org/pdf/2306.15880)
 
-[**Transformer-Based Visual Segmentation: A Survey**](https://arxiv.org/abs/2304.09854)
-Xiangtai Li, Henghui Ding, Wenwei Zhang, Haobo Yuan, Jiangmiao Pang, Guangliang Cheng, Kai Chen, Ziwei Liu, Chen Change Loy
+[**Transformer-Based Visual Segmentation: A Survey**](https://arxiv.org/abs/2304.09854) 2023 <br>
+Xiangtai Li, Henghui Ding, Wenwei Zhang, Haobo Yuan, Jiangmiao Pang, Guangliang Cheng, Kai Chen, Ziwei Liu, Chen Change Loy 
 [[PDF]](https://arxiv.org/pdf/2304.09854)
 
 ____
